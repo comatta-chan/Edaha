@@ -16,3 +16,7 @@ __pycache__/
 *.tar.gz
 build/
 dist/
+
+# Agent config
+.agent/
+
