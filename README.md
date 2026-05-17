@@ -10,6 +10,7 @@
 ## 特徴
 - **ベースフォント**: 大平善道氏デザインの「Zen Maru Gothic（ゼン丸ゴシック）」をベースにしています。
 - **改変手法**: 自作のフォント改変アプリケーション「Font Foundry」（未公開）を使用し、画像生成AIの技術を組み合わせて独自のニュアンスを加えています。
+- **収録文字**: JIS第1水準漢字およびJIS第2水準漢字を網羅しています。
 
 ## クレジットと感謝
 このフォントは、以下の素晴らしいオープンソースフォントをベースにして作成されました。
@@ -33,6 +34,7 @@ Please note that this is an unfinished Work In Progress (WIP) project. Specifica
 ## Features
 - **Base Font**: Based on "Zen Maru Gothic" designed by Yoshimichi Ohira.
 - **Modification Method**: Modified using our private custom tool "Font Foundry", integrating generative AI technology to apply unique styles.
+- **Supported Characters**: Covers all JIS Level 1 and JIS Level 2 Kanji characters.
 
 ## Credits & Acknowledgements
 This font was built upon the following wonderful open-source font:
